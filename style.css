@@ -1,0 +1,4 @@
+body { background-color: #f4f6f9; }
+.card { border: 0; box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+.stat-number { font-size: 2.5rem; font-weight: 700; }
+.table thead { background-color: #0d6efd; color: #fff; }
